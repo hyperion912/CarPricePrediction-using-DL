@@ -56,6 +56,7 @@ bash
 ```
   python car_price_prediction.py
 ```
-##Results
+## Results
+
 The model effectively predicts car prices based on the given features. The performance is visualized through loss and RMSE plots, and predicted prices are compared against actual prices using bar charts.
 
